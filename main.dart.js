@@ -45734,7 +45734,7 @@ case 1:return A.M(q,r)}})
 return A.N($async$fc,r)}}
 A.K7.prototype={
 P(a){var s=A.a([A.ath(new A.a6T(),t.M2),A.ath(new A.a6U(),t.ea)],t.Ds)
-return A.aHd(new A.yR("/memberTotalDepositRoute",A.aPR(),"ChamaX",A.awJ(B.ab,null).aah(B.Bj,B.ha,A.aHv(A.au(a).p3).a8u(B.h)),!1,null),s)}}
+return A.aHd(new A.yR("/",A.aPR(),"ChamaX",A.awJ(B.ab,null).aah(B.Bj,B.ha,A.aHv(A.au(a).p3).a8u(B.h)),!1,null),s)}}
 A.a6T.prototype={
 $1(a){var s,r,q,p,o,n,m,l,k,j,i=$.hE(),h=i.$1$0(t.iW),g=i.$1$0(t.JW)
 i=i.$1$0(t.vy)
